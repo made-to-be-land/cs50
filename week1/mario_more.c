@@ -21,7 +21,8 @@ for(row = 0; row < height; row++)
         printf("#");
     }
 
-printf(" ");
+printf("  ");
+
 for(column = 0; column <= row; column++)
     {
         printf("#");
